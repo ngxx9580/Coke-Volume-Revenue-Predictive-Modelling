@@ -1,4 +1,4 @@
-# MMA860-Coke-Volume-Revenue-Forecast
+# Coke-Volume-Revenue-Forecast
 
 The MMA 860 (Acquisition and Management of Data) course focused on the steps leading up to, and including, building our first predictive model using the R programming language. During the course, we learned a series of techniques for screening data and managing data deficiencies as precursors to actual analysis. These included techniques for data manipulation, data wrangling, feature engineering, and managing data issues prevalent in predictive modelling.
 
